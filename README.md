@@ -4,13 +4,13 @@
 
 # Hi, I'm Nathan Prado
 
-I am a cloud infrastructure & automation engineer, focusing on building automations and integrations using Microsoft's technology stack. I have extensive experience with PowerShell, Azure, and Microsoft 365, and have fully automated countless business workflows over the years. 
+I am an Infrastructure and Automation Engineer with a lifelong passion for technology and over four years of experience supporting diverse environments. Specializing in the Microsoft stack, I focus on building repeatable, scalable, and resilient solutions that align with current business goals while minimizing technical debt. I thrive on finding ways to innovate and improve existing processes, and I genuinely enjoy teaching and mentoring others to help the whole team succeed.
 
 ## What I Do
 
 - **Automation:** Designing workflow automations using Microsoft stack technology such as PowerShell, Azure Functions, and integrations between their products to streamline processes and reduce manual interaction.
 - **Infrastructure:** Architecting and managing Azure IaaS, Entra ID, and hybrid identity environments.
-- **Development:** Building desktop and web-based applications using C# and Blazor WebAssembly.
+- **Personal Development:** Building desktop and mobile applications as a hobbyist, utilizing C#, Swift, or TypeScript.
 
 ## Current Projects
 
@@ -18,7 +18,7 @@ I am a cloud infrastructure & automation engineer, focusing on building automati
 
 ## Skills
 
-![badge](https://shieldcn.dev/badge/PowerShell.svg?variant=secondary&size=default&font=roboto&logo=ri%3ATbBrandPowershell) ![badge](https://shieldcn.dev/badge/CSharp.svg?variant=secondary&size=default&font=roboto&logo=ri%3ATbBrandCSharp) ![badge](https://shieldcn.dev/badge/Swift.svg?variant=secondary&size=default&font=roboto&logo=swift) ![badge](https://shieldcn.dev/badge/dotnet.svg?variant=secondary&size=default&font=roboto&logo=dotnet) ![badge](https://shieldcn.dev/badge/TypeScript.svg?variant=secondary&size=default&font=roboto&logo=typescript) ![badge](https://shieldcn.dev/badge/Azure.svg?variant=secondary&size=default&font=roboto&logo=ri%3ATbBrandAzure) ![badge](https://shieldcn.dev/badge/Grafana.svg?variant=secondary&size=default&font=roboto&logo=grafana) ![badge](https://shieldcn.dev/badge/React.svg?variant=secondary&size=default&font=roboto&logo=react)
+![badge](https://shieldcn.dev/badge/PowerShell.svg?variant=secondary&size=default&font=roboto&logo=ri%3ATbBrandPowershell) ![badge](https://shieldcn.dev/badge/Azure.svg?variant=secondary&size=default&font=roboto&logo=ri%3ATbBrandAzure) ![badge](https://shieldcn.dev/badge/CSharp.svg?variant=secondary&size=default&font=roboto&logo=ri%3ATbBrandCSharp) ![badge](https://shieldcn.dev/badge/Swift.svg?variant=secondary&size=default&font=roboto&logo=swift) ![badge](https://shieldcn.dev/badge/dotnet.svg?variant=secondary&size=default&font=roboto&logo=dotnet) ![badge](https://shieldcn.dev/badge/Grafana.svg?variant=secondary&size=default&font=roboto&logo=grafana)
 
 ## Accounts
 
